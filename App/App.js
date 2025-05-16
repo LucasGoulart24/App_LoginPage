@@ -66,6 +66,7 @@ const styles = StyleSheet.create({
     backgroundColor: '#fff',
     alignItems: 'center',
     justifyContent: 'center',
+    backgroundColor: '#D0D0FF'
   },
   titulo: {
     fontSize: 30,
@@ -76,6 +77,7 @@ const styles = StyleSheet.create({
     height: 50,
     borderRadius: 5,
     borderWidth: 1,
+    backgroundColor: '#FFF'
   },
   botao: {
     margin: 5,
