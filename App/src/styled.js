@@ -14,7 +14,6 @@ export const Perfil = styled.Image`
 
 export const Titulo = styled.Text`
     font-size: 30px;
-    font-weight: bold;
 `;
 
 export const AreaInput = styled.View`
